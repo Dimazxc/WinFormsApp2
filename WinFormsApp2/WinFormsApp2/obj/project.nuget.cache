@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SEGon620ewqe3F7eOXNIvF4xRiCjxIej6xyAsD/GDYXn+MKcNaTb3uH8BTL+96VSuwoAPEEDkB4Yor5LuTN+NQ==",
+  "dgSpecHash": "E+qgGmGozpFRpOZ5jopVkd5A8hBtkj0WzovybAQotMfCBur9uhiysvVtFv7FfL3lZYdUvMyp0czqi3/FJy0qoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dimon\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "projectFilePath": "C:\\Users\\Dimon\\Documents\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dimon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
   ],

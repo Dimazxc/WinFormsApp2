@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dimon\\source\\repos\\WinFormsApp2\\ConsoleTests\\ConsoleTests.csproj",
+      "projectUniqueName": "C:\\Users\\Dimon\\Documents\\WinFormsApp2\\WinFormsApp2\\ConsoleTests\\ConsoleTests.csproj",
       "projectName": "ConsoleTests",
-      "projectPath": "C:\\Users\\Dimon\\source\\repos\\WinFormsApp2\\ConsoleTests\\ConsoleTests.csproj",
+      "projectPath": "C:\\Users\\Dimon\\Documents\\WinFormsApp2\\WinFormsApp2\\ConsoleTests\\ConsoleTests.csproj",
       "packagesPath": "C:\\Users\\Dimon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dimon\\source\\repos\\WinFormsApp2\\ConsoleTests\\obj\\",
+      "outputPath": "C:\\Users\\Dimon\\Documents\\WinFormsApp2\\WinFormsApp2\\ConsoleTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

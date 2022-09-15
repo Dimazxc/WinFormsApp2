@@ -18,11 +18,11 @@ namespace WinFormsApp2.Entities
             int height,
             int[,] initCells)
         {
-            //if (height != initCells.GetLength(0)
-            //    || width != initCells.GetLength(1))
-            //{
-            //    throw new Exception("Not valid block");
-            //}
+            if (height != initCells.GetLength(0)
+                || width != initCells.GetLength(1))
+            {
+                throw new Exception("Not valid block");
+            }
 
             var block = new Block
             {
