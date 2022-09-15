@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgUWbF+poKr6nVtlqlVT6SmmiaxnwnwjQEiKDH+xs1HQZM86AkSJV7AOkp+zethR2DtbETLbpAQCQxHakvUzBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimon\\source\\repos\\WinFormsApp2\\ConsoleTests\\ConsoleTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

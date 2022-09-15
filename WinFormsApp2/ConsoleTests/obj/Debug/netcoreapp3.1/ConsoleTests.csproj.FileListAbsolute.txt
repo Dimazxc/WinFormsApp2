@@ -1,0 +1,13 @@
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.exe
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.deps.json
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.runtimeconfig.json
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.runtimeconfig.dev.json
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.dll
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\bin\Debug\netcoreapp3.1\ConsoleTests.pdb
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.csprojAssemblyReference.cache
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.dll
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.pdb
+C:\Users\Dimon\source\repos\WinFormsApp2\ConsoleTests\obj\Debug\netcoreapp3.1\ConsoleTests.genruntimeconfig.cache
